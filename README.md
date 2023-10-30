@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze salary data provided by the Louisville Metro Government. We are particularly interested in investigating overtime spending that exceeds 60 hours for government employees. This analysis can provide insights into resource allocation, workforce management, and potentially uncover areas for optimization in government spending.
+This project aims to analyze salary data provided by the Louisville Metro Government. We are particularly interested in investigating overtime spending that exceeds 60 hours for government employees. This analysis can provide insights into resource allocation, workforce management, and potentially uncover areas for optimization in government spending. Secondly, in the LMPD shooting notebook, we conducted an exploratory analysis to investigate whether any correlations between overtime and shootings could be identified. In our analysis, we did not observe any significant correlation between hours worked and the occurrence of shootings, nor did we find that years of experience played a decisive role in these incidents.
 
 ## Data Source
 
@@ -28,7 +28,7 @@ The project is structured as follows:
 
 - `notebooks/`: Jupyter notebooks used for data exploration, analysis, and visualization.
 
-- `reports/`: Contains reports summarizing our findings, insights, and recommendations.
+<!-- - `reports/`: Contains reports summarizing our findings, insights, and recommendations. -->
 
 ## Getting Started
 
